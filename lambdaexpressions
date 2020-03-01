@@ -9,3 +9,7 @@ Syntax of lambda expression
 (a) -> sop(a)
 (int a) -> a+a;
 (int a , int b) -> a - b;
+
+
+some important features
+streams
