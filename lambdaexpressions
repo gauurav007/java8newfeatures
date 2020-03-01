@@ -10,6 +10,12 @@ Syntax of lambda expression
 (int a) -> a+a;
 (int a , int b) -> a - b;
 
+
 adding more new features
 static in interface
 default in interface
+
+
+some important features
+streams
+
