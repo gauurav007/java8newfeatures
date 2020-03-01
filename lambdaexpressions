@@ -2,3 +2,10 @@ lambda expression can be define as anonymus function
 function with no name
 with no modifyer
 with no return type
+
+
+Syntax of lambda expression
+() -> expression
+(a) -> sop(a)
+(int a) -> a+a;
+(int a , int b) -> a - b;
